@@ -13,6 +13,7 @@
 		A2A5BF2820A984C400BA0556 /* TableViewCellAutoAdjust.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A2A5BF2620A984C400BA0556 /* TableViewCellAutoAdjust.xcdatamodeld */; };
 		A2A5BF2A20A984C400BA0556 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2A5BF2920A984C400BA0556 /* Assets.xcassets */; };
 		A2A5BF2D20A984C400BA0556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2A5BF2B20A984C400BA0556 /* LaunchScreen.storyboard */; };
+		A2A5BF3520A9865700BA0556 /* ReviewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A5BF3420A9865700BA0556 /* ReviewTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A2A5BF2920A984C400BA0556 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2A5BF2C20A984C400BA0556 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2A5BF2E20A984C400BA0556 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2A5BF3420A9865700BA0556 /* ReviewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				A2A5BF1F20A984C400BA0556 /* AppDelegate.swift */,
 				A2A5BF2120A984C400BA0556 /* ViewController.swift */,
+				A2A5BF3420A9865700BA0556 /* ReviewTableViewCell.swift */,
 				A2A5BF2320A984C400BA0556 /* Main.storyboard */,
 				A2A5BF2920A984C400BA0556 /* Assets.xcassets */,
 				A2A5BF2B20A984C400BA0556 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2A5BF2820A984C400BA0556 /* TableViewCellAutoAdjust.xcdatamodeld in Sources */,
+				A2A5BF3520A9865700BA0556 /* ReviewTableViewCell.swift in Sources */,
 				A2A5BF2220A984C400BA0556 /* ViewController.swift in Sources */,
 				A2A5BF2020A984C400BA0556 /* AppDelegate.swift in Sources */,
 			);
